@@ -1,10 +1,10 @@
-MediGuide AI: AI-Powered Medical Symptom Assessment and Patient Guidance Assistant
+##MediGuide AI: AI-Powered Medical Symptom Assessment and Patient Guidance Assistant
 
 MediGuide AI is an educational healthcare web application built using Streamlit and LangChain. It combines patient symptom inputs and medical contexts with structured, safety-focused educational guidance powered by OpenAI (gpt-4o-mini).
 
 ⚠️ IMPORTANT MEDICAL & SAFETY NOTICE: This application is an educational AI prototype only. It is NOT a replacement for a licensed doctor, professional diagnosis, emergency service, or medical treatment. It must never present a confirmed diagnosis. Every screen directs users to consult a qualified healthcare professional and seek emergency help in urgent situations.
 
-🚀 Features
+##🚀 Features
 
 1. Structured Medical Assessments: Collects patient age, gender, multi-select symptoms, duration, severity ratings (1-10), medical history, medications, and notes.
 
@@ -17,7 +17,7 @@ MediGuide AI is an educational healthcare web application built using Streamlit 
 5. Multilingual Support: Allows users to request guidance in multiple languages (English, Urdu, Hindi).
 
 
-📂 Project Folder Structure
+##📂 Project Folder Structure
 
 Medi Guide AI/
 │
