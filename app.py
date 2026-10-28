@@ -1360,15 +1360,15 @@ API_KEY = os.getenv("OPENAI_API_KEY")
 
 st.set_page_config(page_title="MediGuide AI", page_icon="🩺", layout="wide")
 
-# Streamlit ke default Header (Fork/GitHub) aur Footer ko hide karne ka CSS
-hide_st_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            header {visibility: hidden;}
-            </style>
-            """
-st.markdown(hide_st_style, unsafe_allow_html=True)
+# # Streamlit ke default Header (Fork/GitHub) aur Footer ko hide karne ka CSS
+# hide_st_style = """
+#             <style>
+#             #MainMenu {visibility: hidden;}
+#             footer {visibility: hidden;}
+#             header {visibility: hidden;}
+#             </style>
+#             """
+# st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # ==========================================
 # GLOWING NEON CSS (Works with config.toml)
